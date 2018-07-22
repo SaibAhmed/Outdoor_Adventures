@@ -1,0 +1,16 @@
+{
+  "name": "outdoor_adventures",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "saib",
+  "license": "ISC"
+  
+}
